@@ -22,5 +22,3 @@ public class ExamController {
     }
 }
 
-//   Реализовать контроллер ExamController с одним методом getQuestions(int amount).
-//   Контроллер должен обратиться к ExaminerService, получить от сервиса коллекцию вопросов и вернуть пользователю.
